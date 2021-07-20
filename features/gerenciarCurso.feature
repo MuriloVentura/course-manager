@@ -48,3 +48,5 @@ Feature: Gerenciar curso
         Then vejo uma mensagem de sucesso "Curso excluído com sucesso"
         And estou na página "Cursos"
         And não existe curso de título "Getting started with Javascript"
+
+#adicionando um comentário para commit 1
